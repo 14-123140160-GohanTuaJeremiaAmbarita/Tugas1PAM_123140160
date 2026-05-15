@@ -14,9 +14,9 @@ Sesuai dengan instruksi tugas praktikum minggu 1, proyek ini telah dimodifikasi 
 3.  **Informasi Platform:** Menampilkan nama platform yang sedang digunakan secara dinamis (Android, iOS, atau Desktop) menggunakan pola *expect/actual*. 
 
 ## 📸 Screenshot Aplikasi
-|  |
-| :--- | 
-|  | 
+| Tampilan Awal | Detail Informasi Mahasiswa |
+| :---: | :---: |
+| ![Tampilan Awal](SS_Tamppilan%20awal.png) | ![Detail Tugas](SS_Tugas1pam.png) |
 
 ## 🛠️ Arsitektur & Teknologi
 * **Bahasa:** Kotlin 
